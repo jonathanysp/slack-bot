@@ -1,5 +1,9 @@
 {
 	"name": "aqi",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "JP",
 	"dependencies": {
 		"node-fetch": "^2.3.0"
 	}
